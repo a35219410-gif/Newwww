@@ -5,7 +5,7 @@ yt-dlp>=2025.1.15
 redis>=5.2.0
 pytz>=2024.2
 hijri_converter>=2.3.1
-akinator>=4.0.5
+akinator==2.0.2
 py-cpuinfo>=9.0.0
 psutil>=6.1.0
 uuid
