@@ -20,7 +20,7 @@ httpx[http2]>=0.28.1
 aiohttp>=3.11.0
 aiofiles>=24.1.0
 kvsqlite>=0.1.4
-deep-translator>=1.11.9
+deep-translator==1.11.4
 ffmpeg-python>=0.2.0
 pytio>=0.2.0
 python-dotenv>=1.0.1
