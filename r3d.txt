@@ -14,7 +14,7 @@ pydub>=0.25.1
 gTTS>=2.5.3
 Pillow>=11.0.0
 mutagen>=1.47.0
-shazamio>=0.7.0
+shazamio==0.4.0
 meval==2.5
 httpx[http2]>=0.28.1
 aiohttp>=3.11.0
