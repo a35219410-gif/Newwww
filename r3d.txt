@@ -23,5 +23,5 @@ deep-translator==1.11.4
 ffmpeg-python>=0.2.0
 pytio>=0.2.0
 python-dotenv>=1.0.1
-shazamio==0.6.1
+shazamio==0.6.0
 aiofiles==23.2.1
