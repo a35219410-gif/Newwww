@@ -1,0 +1,7 @@
+sudo apt-get install ffmpeg -y
+sudo apt-get install redis-server -y
+sudo service redis-server start
+# Tune Redis for performance
+sudo redis-cli config set maxmemory-policy allkeys-lru
+sudo redis-cli config set tcp-keepalive 60
+python3 -m pip install -r r3d.txt
